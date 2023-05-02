@@ -4,7 +4,7 @@
 TODO: Change link below from the example running app to your own running app
 For example, you might change it to:
 
-Running at:               http://jpa03-jtoomey.dokku-06.cs.ucsb.edu
+Running at:[here](https://starter-jpa03.dokku-00.cs.ucsb.edu)
 
 
 
